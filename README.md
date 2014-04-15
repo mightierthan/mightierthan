@@ -1,4 +1,0 @@
-mightierthan
-============
-
-A blog
