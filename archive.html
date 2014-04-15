@@ -1,0 +1,19 @@
+---
+layout: default
+title: Mightier Than - Archive
+---
+
+<div id="archive">
+
+  <h1> Archive </h1>
+  <h2 class="second"><a href="/"> Home </a></h2>
+  
+  <ul class="posts">
+    {% for post in site.posts %}
+    <div class="post-list">
+      <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h3 class="date second">{{ post.date | date_to_string}}</h3>
+    </div>
+    {% endfor %}
+  </ul>
+</div>

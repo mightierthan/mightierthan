@@ -1,13 +1,17 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Mightier Than
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+  
+  {% for post in paginator.posts %}
+  <div class="main-post post">
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    <h2 class="second date">{{ post.date | date_to_string }}</h2>
+    <div class="content">
+      {{ post.content }}
+    </div>
+  </div>
+  {% endfor %}
 </div>
