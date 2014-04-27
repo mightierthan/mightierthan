@@ -5,11 +5,9 @@ date:   2014-04-27 11:28:00
 categories: language
 ---
 
-# Cunning Linguists’ Newest Additions to the OED, and What They Say About English Speakers
-
 In Hartford, Hereford, and Hampshire, hurricanes hardly happen. In Cumbria, Cleveland, and Clwyd, cuntish chuggers can crap shoot Coney Dogs… wait, what?
 
-I have decided to open my very first blog post with something appropriately audacious and striking by talking about the dictionary. A few days ago, the OED released the most thrilling statement a dictionary possibly can: shiny new words have been judged and found worthy to be officially part of the English language. 
+I have decided to open my very first blog post with something appropriately audacious and striking by talking about the dictionary. A few days ago, the OED released the most thrilling statement a dictionary possibly can: shiny new words have been judged and found worthy to be officially part of the English language.
 
 At first glance, they may appear to be just a list of new adjectives, nouns and verbs, albeit some bound to be accompanied by a deal of head-scratching. **Crap shoot (n.)**, for instance, is ‘a situation or undertaking regarded as uncertain, risky, or unpredictable’. **Coney Dog (n.)**, is a collection of varied meat products in a bun consumed at a fairground-toting island off New York City. Consider my daily vocabulary expanded.
 
@@ -29,11 +27,11 @@ Interestingly, the *heroine/hero* pairing is one of those rarities in which wome
 
 **Dead white male (n.)**: *a dead Caucasian male writer, philosopher, etc., whose pre-eminence, esp. in academic study, is challenged as disproportionate to his cultural significance, and attributed to a historical bias towards his gender and ethnic group*.
 
-The insinuation in this unflattering term is that modern society has had enough of the things dead white men have said and written, especially in academia. If one felt, for example, that Herman Melville’s brilliance was exaggerated, one could refer to Moby Dick as a big fat book by a dead white male about a big fat white sea mammal. 
+The insinuation in this unflattering term is that modern society has had enough of the things dead white men have said and written, especially in academia. If one felt, for example, that Herman Melville’s brilliance was exaggerated, one could refer to Moby Dick as a big fat book by a dead white male about a big fat white sea mammal.
 
 This one highlights a well-known fact; throughout history, the writings of white European males has been privileged over the work of others. The quite interesting point about it being included in the OED now is that it was included at all. Niche ideas shared by few people don’t make it into the dictionary. That’s to say, the inclusion of the phrase indicates its growing place in those social recesses where said deceased Caucasian gentlemen previously ruled supreme. Such is the power of a dictionary update, on the face on it a mostly dull list of 900 words.
 
-(Speaking of updates and things that are not dull, variations on a word that is especially feminine, so to speak, got a little more space in this year’s dictionary. [http://www.etymonline.com/index.php?term=cunt](Here’s a rather fascinating history of that particular term.))
+(Speaking of updates and things that are not dull, variations on a word that is especially feminine, so to speak, got a little more space in this year’s dictionary. [Here’s a rather fascinating history of that particular term.](http://www.etymonline.com/index.php?term=cunt))
 
 **cunty (n.)**: *adj. despicable; highly unpleasant; extremely annoying*
 
