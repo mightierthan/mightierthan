@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Malifecent"
+title:  "Maleficent"
 date:   21-12-2014 11:28:00
 categories: film, feminism, review
 ---
