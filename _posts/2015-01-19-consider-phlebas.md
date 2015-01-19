@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Considering Phlebas"
 date:   19-01-2015 21:00:00
