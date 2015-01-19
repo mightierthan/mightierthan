@@ -2,7 +2,6 @@
 layout: post
 title:  "Considering Phlebas"
 date:   19-01-2015 21:00:00
-categories: review, book
 ---
 
 Iain Banks is an interesting beast, an author of both literary and science fiction, and a success in both genres. I wonder if part of that success stems from not only being an excellent writer but by inserting a middle initial into his name when writing sci-fi, thus allowing booksellers to file his work under two names in two categories. Must help with electronic catalogues. Of such things are careers made.

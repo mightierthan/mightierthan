@@ -2,7 +2,7 @@
 layout: post
 title:  "Maleficent"
 date:   21-12-2014 11:28:00
-categories: film, feminism, review
+categories: film feminism review
 ---
 
 I love fantasy. Give me spellcasters, knights, dragons, soaring forests and towers, cloaks, unlikely youthful heroes and their elderly wisdom-dispensing guardians, and the curative ability of friendship and love over the powers of darkness. I am on board. So I sat down to Maleficent with hope in my heart that this may break the spell of god awful live-action fairy tale adaptations like Mirror Mirror and Snow White and the Huntsman that we’ve been bombarded with these past few years.
