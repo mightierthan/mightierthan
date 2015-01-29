@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Spoiling the Ending: The Death of King Arthur"
 date: 29-01-2015 22:30:00
