@@ -15,7 +15,7 @@ swimming pool. Not even nearly tempting at first but when coerced into it by
 the less than holy trinity of bills, guilt, and Antiques Roadshow, many rewards 
 can follow. Here are a few tips and tricks to traverse those treacherous waters.
 
-## Time
+### Time
 
 Plan your timing carefully. It’s easy to minimise preparation time. ‘I don’t 
 know anyone’ and ‘I’m only staying for a day’ are two thoughts always 
@@ -25,7 +25,7 @@ find your way round, no time to discuss the classes, no time to go the
 bathroom, let alone find it. All can come back to bite you. Don’t touch the 
 ‘snooze’.
 
-## Kick Off
+### Kick Off
 
 Every book on teaching highlights the importance of the first five minutes. 
 Opportunity to define boundaries when students are at their most predisposed. 
@@ -40,7 +40,7 @@ descending size) to write their name under the smiley face. An interested hum
 ensues - ‘Ooh this one means what they say’ – surrounding you in a cloud of 
 order and confidence.
 
-## Register
+### Register
 
 The law is laid down and students are where you want them. Next up is roll 
 call. Nowadays school take registers with a program called SIMS (Supply Idiot 
@@ -53,7 +53,7 @@ student to correct you so you aren’t overwhelmed with a tidal wave of
 corrections. When complete, celebrate with a mini fist pump for completing the 
 first hurdle on your journey to a calm and happy day.
 
-## Actually Teaching
+### Actually Teaching
 
 You should get lesson plans in the morning. These could range from perfectly
 planned simplicity to photocopied activity sheets to a hastily scribbled 
@@ -63,7 +63,7 @@ your sleeve for when set work is finished/illegible/thrown out the window.
 These ‘golden activities’ should be adaptable for any year group, require no 
 resources and no marking. Here’s one English specific example I made earlier:
 
-### Colour Poem
+#### Colour Poem
 ```
 Red is
 Green is
@@ -76,7 +76,7 @@ you. Ask for metaphors, juxtaposition, or a haiku from your Oscar Wildes;
 capital letters and full stops from your Joey Essexes. It’s simple, but it 
 rarely fails. 
 
-## The Afternoon Lull
+### The Afternoon Lull
 
 Food, stress, and friendship dramas can stifle the magic of the smiley face 
 after lunchtime. Bring out the big guns with a new bribe, I mean...incentive. 
@@ -100,7 +100,7 @@ Miss. B
 (sign it – kids love that)
 ```
 
-## The Countdown 
+### The Countdown 
 
 However wonderful your contingent have been, take extra care for the countdown.
 With fifteen minutes to go, start planning the end of the day. The drama game
@@ -124,7 +124,7 @@ If you have any doubt play it safe. Take the situation to the office and they
 will take it from there. This is not a time to take risks however desperate you 
 are to get to the pub.
 
-## Behaviour 
+### Behaviour 
 
 The elephant in the article. I have intentionally left this to last because if 
 you follow the strategies above then you won’t come to much harm. It’s best to 
