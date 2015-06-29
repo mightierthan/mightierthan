@@ -245,3 +245,7 @@ footer a {
     text-align: center;
     padding: 10px 0 0 0;
 }
+
+.post h3, .post h4, .post pre {
+  margin: 35px 0;
+}
